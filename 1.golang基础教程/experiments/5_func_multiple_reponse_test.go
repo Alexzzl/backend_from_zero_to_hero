@@ -10,7 +10,7 @@ func vals() (int, int) {
 }
 
 func TestFuncMultipleResponse(t *testing.T) {
-	response1, reponse2 := vals()
+	response1, response2 := vals()
 
-	fmt.Println(response1, reponse2)
+	fmt.Println(response1, response2)
 }
