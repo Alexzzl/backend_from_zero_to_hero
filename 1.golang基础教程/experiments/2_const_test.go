@@ -5,7 +5,7 @@ import (
 	"testing"
 )
 
-const s = "web3"
+const s = "alexzzl"
 
 func TestConst(t *testing.T) {
 	fmt.Println(s)
